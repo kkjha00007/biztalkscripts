@@ -1,2 +1,2 @@
-# biztalkscripts
+# Biztalk Scripts
 BizTalk Scripts
